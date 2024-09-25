@@ -107,7 +107,7 @@ To access the API, you will need a valid JWT access token. Obtain a token by sen
      }
      ```
 
-## **🌐 API Endpoints**
+## **API Endpoints🌐**
 
 ### **🔄 Transactions**
 
